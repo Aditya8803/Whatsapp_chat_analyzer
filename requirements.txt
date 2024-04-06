@@ -1,0 +1,10 @@
+streamlit
+preprocessor
+helper
+matplotlib.pyplot
+seaborn
+urlextract
+wordcloud
+pandas
+collections
+emoji
