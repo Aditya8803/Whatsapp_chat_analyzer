@@ -1,10 +1,11 @@
 streamlit
+re
 preprocessor
 helper
 matplotlib
 seaborn
 urlextract
-wordcloud
+WordCloud
 pandas
-collections
+Counter
 emoji
